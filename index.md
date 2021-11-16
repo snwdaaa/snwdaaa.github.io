@@ -9,6 +9,7 @@ layout: home
 ---
 
 # About Me
+## SeungWoo Lee
 - Always struggle to do my best
 - Freshman at Hanbat National University
 
