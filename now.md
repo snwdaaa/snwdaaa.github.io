@@ -9,7 +9,7 @@ order: 2
 
 # PS Achievement Manager (WIP)
 [Github page](https://github.com/snwdaaa/PSAchivementManager)
-![PSAM Image](images/psam.png)
+![PSAM Image](https://snwdaaa.github.io/images/psam.PNG)
 - Used language: <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 - Description<br/>
     플레이스테이션 유저들이 편리하게 트로피를 관리할 수 있는 프로그램<br/>
